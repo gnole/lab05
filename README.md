@@ -151,12 +151,6 @@ Successfully logged in as gnole!
 $ travis enable
 gnole/lab05: enabled :)
 ```
-Создаем директорию и делаем скриншот с задержкой в 20 сек
-```sh
-$ mkdir artifacts
-$ screencapture -T 20 artifacts/screenshot.png
-```
-
 ## Report
 Создание отчета по ЛР № 5
 ```sh
