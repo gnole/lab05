@@ -146,7 +146,7 @@ $ git push origin master
 ```
 Логинимся и включаем TravisCI для репозитория
 ```sh
-$ travis login --
+$ travis login --auto
 Successfully logged in as gnole!
 $ travis enable
 gnole/lab05: enabled :)
